@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-
+//this is changed
 class Admin_ptr_view extends CI_Controller {
 
 	function __construct()
